@@ -13,22 +13,22 @@ ___
 #### P1
 ___
 
-    ![alt text](/assets/A3P11.png "Program Output.")
-    ![alt text](/assets/A3P12.png "Program Output.")
+   ![alt text](/assets/A3P11.png "Program Output.")
+   ![alt text](/assets/A3P12.png "Program Output.")
 
 #### P2
 ___
 
-    ![alt text](/Assignment_3/A3P2/Snapshots/A3P2(NaiveBayes).png "Program Output.")
-    ![alt text](/Assignment_3/A3P2/Snapshots/A3P2(NaiveBayesKernal).png "Program Output.")
+   ![alt text](/Assignment_3/A3P2/Snapshots/A3P2(NaiveBayes).png "Program Output.")
+   ![alt text](/Assignment_3/A3P2/Snapshots/A3P2(NaiveBayesKernal).png "Program Output.")
 
 #### P3
 ___
 
-    ![alt text](/Assignment_3/A3P2/Snapshots/A3P3(NaiveBayes).png "Program Output.")
-    ![alt text](/Assignment_3/A3P2/Snapshots/A3P3(NaiveBayesKernal).png "Program Output.")
+   ![alt text](/Assignment_3/A3P2/Snapshots/A3P3(NaiveBayes).png "Program Output.")
+   ![alt text](/Assignment_3/A3P2/Snapshots/A3P3(NaiveBayesKernal).png "Program Output.")
 
 #### P4
 ___
 
-    ![alt text](/Assignment_3/A3P2/Snapshots/A3P4.png "Program Output.")
+   ![alt text](/Assignment_3/A3P2/Snapshots/A3P4.png "Program Output.")
