@@ -25,10 +25,10 @@ ___
 #### P3
 ___
 
-   ![alt text](/Assignment_3/A3P2/Snapshots/A3P3(NaiveBayes).png "Program Output.")
-   ![alt text](/Assignment_3/A3P2/Snapshots/A3P3(NaiveBayesKernal).png "Program Output.")
+   ![alt text](/Assignment_3/A3P3/Snapshots/A3P3(NaiveBayes).png "Program Output.")
+   ![alt text](/Assignment_3/A3P3/Snapshots/A3P3(NaiveBayesKernal).png "Program Output.")
 
 #### P4
 ___
 
-   ![alt text](/Assignment_3/A3P2/Snapshots/A3P4.png "Program Output.")
+   ![alt text](/Assignment_3/A3P4/Snapshots/A3P4.png "Program Output.")
