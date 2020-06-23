@@ -13,5 +13,5 @@ ___
 #### P1
 ___
 
-    ![alt text](/assets/A1P1.png "Program Output.")
+   ![alt text](/assets/A1P1.png "Program Output.")
 
